@@ -1,0 +1,49 @@
+name: florentino.yundt
+description: Stand-alone
+version: 0.0.1
+author: uzqda5yn.pybesith@nykf3vt5.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: florentinoyundt
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:13:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:13:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:13:03.999338Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1499668877'
+  createdAt: '2024-11-22T20:13:03.999338Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
